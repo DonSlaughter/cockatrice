@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rankle (schwarz)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="27" name="Swamp"/>
+        <card number="1" name="Dakmor Sorceress"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Blood Reckoning"/>
+        <card number="1" name="Liliana's Shade"/>
+        <card number="1" name="Dire Fleet Ravager"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Muck Drubb"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Marchesa's Decree"/>
+        <card number="1" name="Thrilling Encore"/>
+        <card number="1" name="Forsaken Wastes"/>
+        <card number="1" name="Omen Machine"/>
+        <card number="1" name="Revenge of Ravens"/>
+        <card number="1" name="Dread Reaper"/>
+        <card number="1" name="Choice of Damnations"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Pyxis of Pandemonium"/>
+        <card number="1" name="Lashwrithe"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Nettling Imp"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Liliana of the Dark Realms"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Tendrils of Corruption"/>
+        <card number="1" name="Peppersmoke"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Farfinder"/>
+        <card number="1" name="Transmogrifying Wand"/>
+        <card number="1" name="Cabal Stronghold"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Pharika's Libation"/>
+        <card number="1" name="Nightmare Lash"/>
+        <card number="1" name="Sanitarium Skeleton"/>
+        <card number="1" name="Crypt of Agadeem"/>
+        <card number="1" name="Uncle Istvan"/>
+        <card number="1" name="Murderous Compulsion"/>
+        <card number="1" name="Scrounge"/>
+        <card number="1" name="Poisonbelly Ogre"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Gruesome Encore"/>
+        <card number="1" name="Simulacrum"/>
+        <card number="1" name="Capital Punishment"/>
+        <card number="1" name="Trespasser's Curse"/>
+        <card number="1" name="Witch's Cottage"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Tree of Perdition"/>
+        <card number="1" name="Mutilate"/>
+        <card number="1" name="Master of the Feast"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Geth's Grimoire"/>
+        <card number="1" name="Crypt Rats"/>
+        <card number="1" name="Kor Dirge"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="King's Assassin"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Phyrexian Rager"/>
+        <card number="1" name="Filigree Familiar"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Blood Seeker"/>
+        <card number="1" name="Earwig Squad"/>
+        <card number="1" name="Treacherous Urge"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Dark Withering"/>
+    </zone>
+</cockatrice_deck>

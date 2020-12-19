@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zombies (60 Karten)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Armored Skaab"/>
+        <card number="4" name="Skaab Ruinator"/>
+        <card number="4" name="Prized Amalgam"/>
+        <card number="4" name="Evolving Wilds"/>
+        <card number="4" name="Wailing Ghoul"/>
+        <card number="4" name="Deranged Assistant"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="4" name="Gravecrawler"/>
+        <card number="4" name="Cryptbreaker"/>
+        <card number="2" name="Drownyard Temple"/>
+        <card number="1" name="Gisa and Geralf"/>
+        <card number="4" name="Stitchwing Skaab"/>
+        <card number="4" name="Geralf's Masterpiece"/>
+        <card number="9" name="Island"/>
+        <card number="7" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

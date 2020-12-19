@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Arcades (Defender)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcades, the Strategist"/>
+        <card number="1" name="Amaranthine Wall"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Hover Barrier"/>
+        <card number="1" name="Jeskai Barricade"/>
+        <card number="1" name="Jungle Barrier"/>
+        <card number="1" name="Mnemonic Wall"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Psychic Membrane"/>
+        <card number="1" name="Shield Sphere"/>
+        <card number="1" name="Steel Wall"/>
+        <card number="1" name="Sunscape Familiar"/>
+        <card number="1" name="Vine Trellis"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="Wall of Frost"/>
+        <card number="1" name="Wall of Glare"/>
+        <card number="1" name="Wall of Junk"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Wall of Resistance"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Wall of Runes"/>
+        <card number="1" name="Wall of Stolen Identity"/>
+        <card number="1" name="Wall of Tanglecord"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Colossus of Akros"/>
+        <card number="1" name="Geist of the Archives"/>
+        <card number="1" name="Perimeter Captain"/>
+        <card number="1" name="Riptide Turtle"/>
+        <card number="1" name="Sidar Kondo of Jamuraa"/>
+        <card number="1" name="Stalwart Shield-Bearers"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Thallid Shell-Dweller"/>
+        <card number="1" name="Towering Titan"/>
+        <card number="1" name="Tree of Redemption"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Tower Defense"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Open the Gates"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Meekstone"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Slagwurm Armor"/>
+        <card number="1" name="Assault Formation"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="High Alert"/>
+        <card number="1" name="Hold the Gates"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Huatli, the Sun's Heart"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Maze's End"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="7" name="Island"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Plains"/>
+    </zone>
+</cockatrice_deck>

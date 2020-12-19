@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sir Shandlar of Eberyn"/>
+        <card number="1" name="Noble Elephant"/>
+        <card number="1" name="War Elephant"/>
+        <card number="1" name="Torsten Von Ursus"/>
+        <card number="1" name="Weapon Rack"/>
+        <card number="1" name="Thalia's Lieutenant"/>
+        <card number="1" name="Thalia, Heretic Cathar"/>
+        <card number="1" name="Thalia's Lancers"/>
+        <card number="1" name="Kjeldoran Warrior"/>
+        <card number="1" name="Kjeldoran Knight"/>
+        <card number="1" name="Kjeldoran Escort"/>
+        <card number="1" name="Kjeldoran Skycaptain"/>
+        <card number="1" name="Kjeldoran Phalanx"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Preacher"/>
+        <card number="1" name="Benalish Infantry"/>
+        <card number="1" name="Scalding Cauldron"/>
+        <card number="1" name="Shared Triumph"/>
+        <card number="1" name="Pikemen"/>
+        <card number="1" name="Crusade"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Serra's Blessing"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Everdawn Champion"/>
+        <card number="1" name="Icatian Phalanx"/>
+        <card number="1" name="Icatian Skirmishers"/>
+        <card number="1" name="Icatian Infantry"/>
+        <card number="1" name="Benalish Hero"/>
+        <card number="1" name="Marshal's Anthem"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Hamlet Captain"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Field Marshal"/>
+        <card number="1" name="Hand of Justice"/>
+        <card number="1" name="Make a Wish"/>
+        <card number="1" name="Beloved Chaplain"/>
+        <card number="1" name="Fool's Tome"/>
+        <card number="1" name="Spare Supplies"/>
+        <card number="1" name="Divine Sacrament"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Knights of Thorn"/>
+        <card number="1" name="Beast Walkers"/>
+        <card number="1" name="Jayemdae Tome"/>
+        <card number="1" name="Witch Hunter"/>
+        <card number="1" name="Heron's Grace Champion"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Champion of the Parish"/>
+        <card number="1" name="Hazduhr the Abbot"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Cho-Manno, Revolutionary"/>
+        <card number="1" name="Shield Bearer"/>
+        <card number="1" name="Mesa Pegasus"/>
+        <card number="1" name="Endless Horizons"/>
+        <card number="1" name="Jasmine Boreal"/>
+        <card number="1" name="Rashka the Slayer"/>
+        <card number="1" name="General Jarkeld"/>
+        <card number="1" name="Well of Knowledge"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Cathedral of Serra"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Truce"/>
+        <card number="1" name="Declaration in Stone"/>
+        <card number="15" name="Forest"/>
+        <card number="17" name="Plains"/>
+    </zone>
+</cockatrice_deck>

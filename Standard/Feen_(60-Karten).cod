@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Feen (60 Karten)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" name="Island"/>
+        <card number="4" name="Secluded Glen"/>
+        <card number="1" name="Vendilion Clique"/>
+        <card number="4" name="Thieves' Fortune"/>
+        <card number="4" name="Noggin Whack"/>
+        <card number="4" name="Spellstutter Sprite"/>
+        <card number="4" name="Nightshade Stinger"/>
+        <card number="4" name="Oona's Blackguard"/>
+        <card number="4" name="Pestermite"/>
+        <card number="2" name="Bitterblossom"/>
+        <card number="4" name="Morsel Theft"/>
+        <card number="2" name="Latchkey Faerie"/>
+        <card number="4" name="Oona's Prowler"/>
+        <card number="2" name="Stinkdrinker Bandit"/>
+        <card number="9" name="Swamp"/>
+    </zone>
+</cockatrice_deck>
