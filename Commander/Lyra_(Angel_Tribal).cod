@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lyra Dawnbringer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Lyra Dawnbringer"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Seraph of the Sword"/>
+        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Warrior Angel"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Tithe"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Serra the Benevolent"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Rebuff the Wicked"/>
+        <card number="1" name="Radiant, Archangel"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Requiem Angel"/>
+        <card number="1" name="Marshal's Anthem"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Voice of Duty"/>
+        <card number="1" name="Emancipation Angel"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Angelic Curator"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Avenging Angel"/>
+        <card number="1" name="Blinding Angel"/>
+        <card number="1" name="Answered Prayers"/>
+        <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Lapse of Certainty"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Seraph Sanctuary"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Voice of Truth"/>
+        <card number="1" name="Bishop of Wings"/>
+        <card number="1" name="Kor Haven"/>
+        <card number="1" name="Reya Dawnbringer"/>
+        <card number="1" name="Herald of Serra"/>
+        <card number="1" name="Voice of Law"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Brought Back"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Angelic Page"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Seraph of Dawn"/>
+        <card number="1" name="Angelic Ascension"/>
+        <card number="1" name="Voice of Grace"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Akroma, Angel of Wrath"/>
+        <card number="1" name="Voice of Reason"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Sustainer of the Realm"/>
+        <card number="1" name="Archangel"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Voice of All"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Angel of Vitality"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Idyllic Grange"/>
+        <card number="1" name="Archangel of Strife"/>
+        <card number="1" name="Mind's Eye"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Drifting Meadow"/>
+        <card number="1" name="Serra Advocate"/>
+        <card number="25" name="Plains"/>
+        <card number="1" name="Angel of the Dawn"/>
+    </zone>
+</cockatrice_deck>

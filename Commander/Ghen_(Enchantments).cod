@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ghen, Arcanum Weaver (Verzauberungen)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ghen, Arcanum Weaver"/>
+        <card number="1" name="Vicious Shadows"/>
+        <card number="1" name="Grave Betrayal"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Mindwrack Harpy"/>
+        <card number="1" name="Mogis, God of Slaughter"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Wheel of Fate"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mesmeric Orb"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arguel's Blood Fast"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Captive Audience"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Demonic Pact"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Font of Agonies"/>
+        <card number="1" name="Havoc Festival"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Mana Flare"/>
+        <card number="1" name="Necrogen Mists"/>
+        <card number="1" name="Oath of Lieges"/>
+        <card number="1" name="Opalescence"/>
+        <card number="1" name="Oppression"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Quest for the Nihil Stone"/>
+        <card number="1" name="Rain of Gore"/>
+        <card number="1" name="Revel in Riches"/>
+        <card number="1" name="Righteous Aura"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Stony Silence"/>
+        <card number="1" name="Stranglehold"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Waste Not"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Serra's Sanctum"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="7" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Norn's Annex"/>
+    </zone>
+</cockatrice_deck>
