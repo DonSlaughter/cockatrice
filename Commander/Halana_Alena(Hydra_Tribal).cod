@@ -22,9 +22,6 @@
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Decimate"/>
         <card number="1" name="Hull Breach"/>
-        <card number="1" name="Shivan Wurm"/>
-        <card number="1" name="Scoria Wurm"/>
-        <card number="1" name="Wild Wurm"/>
         <card number="1" name="Nessian Boar"/>
         <card number="1" name="Panglacial Wurm"/>
         <card number="1" name="Treeshaker Chimera"/>
@@ -41,7 +38,6 @@
         <card number="1" name="Rosheen Meanderer"/>
         <card number="1" name="Guardian Project"/>
         <card number="1" name="Zendikar Resurgent"/>
-        <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Fires of Yavimaya"/>
@@ -49,11 +45,9 @@
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Ranger's Path"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Magewright's Stone"/>
         <card number="1" name="Puppet Strings"/>
-        <card number="1" name="Acidic Slime"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Terastodon"/>
         <card number="1" name="Grothama, All-Devouring"/>
@@ -69,9 +63,18 @@
         <card number="1" name="Greater Good"/>
         <card number="1" name="Moss Diamond"/>
         <card number="1" name="Fire Diamond"/>
-        <card number="1" name="Engulfing Slagwurm"/>
-        <card number="1" name="Tempting Wurm"/>
         <card number="1" name="Jandor's Saddlebags"/>
         <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Unbound Flourishing"/>
+        <card number="1" name="Ugin's Conjurant"/>
+        <card number="1" name="Endless One"/>
+        <card number="1" name="Malignus"/>
+        <card number="1" name="Rock Hydra"/>
+        <card number="1" name="Balduvian Hydra"/>
+        <card number="1" name="Savageborn Hydra"/>
+        <card number="1" name="Acidic Slime"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Realm Seekers"/>
     </zone>
 </cockatrice_deck>
