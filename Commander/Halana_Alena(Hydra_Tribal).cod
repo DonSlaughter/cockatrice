@@ -3,8 +3,6 @@
     <deckname>Kessing</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Alena, Kessig Trapper"/>
-        <card number="1" name="Halana, Kessig Ranger"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Sheltered Thicket"/>
         <card number="1" name="Skarrg, the Rage Pits"/>
@@ -44,7 +42,6 @@
         <card number="1" name="Fervor"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Magewright's Stone"/>
         <card number="1" name="Puppet Strings"/>
@@ -62,7 +59,6 @@
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Moss Diamond"/>
-        <card number="1" name="Fire Diamond"/>
         <card number="1" name="Jandor's Saddlebags"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Unbound Flourishing"/>
@@ -73,8 +69,12 @@
         <card number="1" name="Balduvian Hydra"/>
         <card number="1" name="Savageborn Hydra"/>
         <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Pir's Whim"/>
     </zone>
     <zone name="side">
         <card number="1" name="Realm Seekers"/>
+        <card number="1" name="Alena, Kessig Trapper"/>
+        <card number="1" name="Halana, Kessig Ranger"/>
     </zone>
 </cockatrice_deck>
