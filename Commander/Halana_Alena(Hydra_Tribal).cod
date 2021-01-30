@@ -8,8 +8,7 @@
         <card number="1" name="Skarrg, the Rage Pits"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="18" name="Forest"/>
-        <card number="14" name="Mountain"/>
-        <card number="1" name="Command Tower"/>
+        <card number="13" name="Mountain"/>
         <card number="1" name="Myth Unbound"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Three Visits"/>
@@ -62,7 +61,6 @@
         <card number="1" name="Jandor's Saddlebags"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Unbound Flourishing"/>
-        <card number="1" name="Ugin's Conjurant"/>
         <card number="1" name="Endless One"/>
         <card number="1" name="Malignus"/>
         <card number="1" name="Rock Hydra"/>
@@ -71,6 +69,9 @@
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Pir's Whim"/>
+        <card number="1" name="Ferocity of the Wilds"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
     </zone>
     <zone name="side">
         <card number="1" name="Realm Seekers"/>
