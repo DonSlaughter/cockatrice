@@ -20,7 +20,6 @@
         <card number="1" name="Decimate"/>
         <card number="1" name="Hull Breach"/>
         <card number="1" name="Nessian Boar"/>
-        <card number="1" name="Panglacial Wurm"/>
         <card number="1" name="Treeshaker Chimera"/>
         <card number="1" name="Primeval Protector"/>
         <card number="1" name="Apocalypse Hydra"/>
@@ -37,8 +36,6 @@
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Fires of Yavimaya"/>
-        <card number="1" name="Fervor"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Sol Ring"/>
@@ -54,7 +51,6 @@
         <card number="1" name="Hungering Hydra"/>
         <card number="1" name="Feral Hydra"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
-        <card number="1" name="Rubblehulk"/>
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Moss Diamond"/>
@@ -66,15 +62,18 @@
         <card number="1" name="Rock Hydra"/>
         <card number="1" name="Balduvian Hydra"/>
         <card number="1" name="Savageborn Hydra"/>
-        <card number="1" name="Acidic Slime"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Pir's Whim"/>
-        <card number="1" name="Ferocity of the Wilds"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Zhur-Taa Ancient"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Realm Seekers"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Realm Seekers"/>
         <card number="1" name="Alena, Kessig Trapper"/>
         <card number="1" name="Halana, Kessig Ranger"/>
     </zone>
