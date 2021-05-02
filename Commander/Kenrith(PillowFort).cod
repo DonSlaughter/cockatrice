@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kwain, Itinerant Meddler"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Kami of the Crescent Moon"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Dictate of Karametra"/>
+        <card number="1" name="Dictate of Kruphix"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Kynaios and Tiro of Meletis"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Eladamri's Vineyard"/>
+        <card number="1" name="Magus of the Vineyard"/>
+        <card number="1" name="Shizuko, Caller of Autumn"/>
+        <card number="1" name="Zhur-Taa Ancient"/>
+        <card number="1" name="Mana Flare"/>
+        <card number="1" name="Heartbeat of Spring"/>
+        <card number="1" name="Overabundance"/>
+        <card number="1" name="Awakening"/>
+        <card number="1" name="Moat"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Shared Trauma"/>
+        <card number="1" name="Collective Voyage"/>
+        <card number="1" name="Minds Aglow"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Phelddagrif"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Ghirapur Orrery"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Vernal Equinox"/>
+        <card number="1" name="Switcheroo"/>
+        <card number="1" name="Nekusar, the Mindrazer"/>
+        <card number="1" name="Avatar of Growth"/>
+        <card number="1" name="Old-Growth Dryads"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Tempt with Vengeance"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Leonin Abunas"/>
+        <card number="1" name="Fountain Watch"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Grand Coliseum"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kenrith, the Returned King"/>
+    </zone>
+</cockatrice_deck>
